@@ -6,7 +6,7 @@ This project builds a machine learning model that predicts a borrower's **Probab
 
 ## 📁 Dataset
 
-The dataset (`Loan Data.csv`) contains 10,000 customer records with the following features:
+The dataset (`Loan_Data.csv`) contains 10,000 customer records with the following features:
 
 - `credit_lines_outstanding`
 - `loan_amt_outstanding`
